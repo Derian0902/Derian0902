@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente aprendiendo **desarrollo fullstack y nuevas tecnologías**
 - 💻 Me gusta crear soluciones usando **Java, JavaScript, HTML/CSS y Python**
-- 📫 ¿Cómo contactarme? **derian.tucorreo@gmail.com**
+- 📫 ¿Cómo contactarme? **driverab0902@gmail.com**
 - ⚡ Fun fact: Me apasiona programar mientras escucho buena música 🎧
 
 ---
@@ -29,9 +29,3 @@
 - 🎯 [Nombre del Proyecto 1](#)
 - 🎨 [Nombre del Proyecto 2](#)
 
----
-
-### 📚 Próximamente
-- Aprender bases de datos SQL y NoSQL
-- Crear una API REST con Node.js o Django
-- Contribuir a un proyecto open source
