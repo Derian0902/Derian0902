@@ -1,31 +1,56 @@
-<h1 align="center">Hola 👋, soy Derian</h1>
-<h3 align="center">Desarrollador web y de aplicaciones de escritorio en crecimiento</h3>
-
-- 🌱 Actualmente aprendiendo **desarrollo fullstack y nuevas tecnologías**
-- 💻 Me gusta crear soluciones usando **Java, JavaScript, HTML/CSS y Python**
-- 📫 ¿Cómo contactarme? **driverab0902@gmail.com**
-- ⚡ Fun fact: Me apasiona programar mientras escucho buena música 🎧
+<h1 align="center">Hola 👋, soy Derian Rivera</h1>
+<h3 align="center">Desarrollador Backend Jr | Python · PHP (Laravel) · MySQL</h3>
 
 ---
 
-### 🛠️ Tecnologías que uso
+💻 Desarrollador junior egresado de Ingeniería en Sistemas Computacionales con experiencia en desarrollo de aplicaciones web y de escritorio.
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+He trabajado en el desarrollo de sistemas reales, incluyendo aplicaciones web para gestión de inventario, utilizando tecnologías como Laravel, Vue.js y MySQL.
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 🚀 Tecnologías principales
 
-![Derian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derian0902&show_icons=true&theme=tokyonight)
+- 🐍 Python  
+- ⚙️ PHP (Laravel)  
+- 🌐 JavaScript  
+- 🗄️ MySQL / SQLite  
+- 💻 Linux  
+
+---
+
+### 📌 Proyecto destacado
+
+🔹 **Sistema de Control de Inventario**  
+Aplicación web desarrollada para la gestión de inventario de una carnicería perteneciente a un grupo de restaurantes.
+
+- Desarrollo backend con Laravel  
+- Implementación de base de datos MySQL  
+- Desarrollo de funcionalidades de registro, consulta y reportes  
+- Despliegue en entorno local con Laragon  
+
+👉 Próximamente disponible en GitHub
+
+---
+
+### 🧠 Intereses
+
+- Desarrollo Backend  
+- Automatización con Python  
+- Computación en la nube ☁️  
+- Ciberseguridad 🔐  
+- Inteligencia Artificial aplicada al desarrollo  
+
+---
+
+### 📫 Contacto
+
+- Email: driverab0902@gmail.com  
+- GitHub: https://github.com/Derian0902  
+
+---
+
+### 📈 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Derian0902&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derian0902&layout=compact&theme=tokyonight)
-
----
-
-### 🚀 Proyectos en los que estoy trabajando
-- 🎯 [Nombre del Proyecto 1](#)
-- 🎨 [Nombre del Proyecto 2](#)
-
