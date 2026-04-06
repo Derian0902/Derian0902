@@ -29,8 +29,6 @@ Aplicación web para gestión de inventario en una carnicería de un grupo de re
 - Generación de reportes  
 - Despliegue con Laragon  
 
-👉 Próximamente disponible en GitHub
-
 ---
 
 ### 🧠 Intereses
