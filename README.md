@@ -57,5 +57,8 @@ Aplicación web para gestión de inventario en una carnicería de un grupo de re
 
 ### 📈 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Derian0902&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derian0902&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Derian0902&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derian0902&layout=compact&theme=tokyonight" />
+</p>
